@@ -1,5 +1,1 @@
-export default function ClinicPage() {
-    return (
-        <div></div>
-    );
-}
+export { default } from "@/app/page";
